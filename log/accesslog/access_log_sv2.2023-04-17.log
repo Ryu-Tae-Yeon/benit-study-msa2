@@ -1,0 +1,3 @@
+2023-04-17 14:32:49.831 0:0:0:0:0:0:0:1 404 275 161636 GET /delivery HTTP/1.1 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-" 
+2023-04-17 14:32:50.056 0:0:0:0:0:0:0:1 404 111 91017 GET /favicon.ico HTTP/1.1 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "http://localhost/delivery" 
+2023-04-17 14:33:30.689 0:0:0:0:0:0:0:1 200 860 365190 GET /deliveries HTTP/1.1 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-" 
